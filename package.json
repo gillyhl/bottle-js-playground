@@ -1,0 +1,17 @@
+{
+  "name": "bottle-playground",
+  "version": "1.0.0",
+  "description": "Experiment with BottleJS",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bottlejs",
+    "javascript"
+  ],
+  "author": "Gilbert Holland-Lloyd",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
