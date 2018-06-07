@@ -9,6 +9,12 @@
       "request": "launch",
       "name": "Launch Sans Bottle Program",
       "program": "${workspaceFolder}\\src\\sans-bottle\\server.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Launch Bottle Program",
+      "program": "${workspaceFolder}\\src\\bottle\\server.js"
     }
   ]
 }

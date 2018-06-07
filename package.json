@@ -4,7 +4,8 @@
   "description": "Experiment with BottleJS",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "sans-bottle": "node src/sans-bottle/server.js"
+    "sans-bottle": "node src/sans-bottle/server.js",
+    "bottle": "node src/bottle/server.js"
   },
   "keywords": [
     "bottlejs",
@@ -13,6 +14,7 @@
   "author": "Gilbert Holland-Lloyd",
   "license": "MIT",
   "dependencies": {
+    "bottlejs": "^1.7.1",
     "express": "^4.16.3"
   }
 }
